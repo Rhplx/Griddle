@@ -1,5 +1,5 @@
 {
-  "name": "griddle-react",
+  "name": "@dibyo/griddle-react",
   "version": "1.13.2",
   "description": "A fast and flexible grid component for React",
   "keywords": [
